@@ -1,0 +1,27 @@
+Test Case 1:
+
+1. Select delivery
+2. Enter any random number
+3. Close the "select customer" frame
+4. Select items
+5. Enter the correct amount of money
+6. Select confirm
+
+Test Case 2
+
+1. Select delivery
+2. Select new
+3. Enter your information
+4. Select items
+5. Enter the correct amount of money
+6. Select confirm
+
+Test Case 3
+
+1. Press done button in kitchen's screen
+
+Test Case 4
+
+1. Press confirm without selecting any items
+
+
